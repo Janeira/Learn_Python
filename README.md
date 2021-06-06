@@ -7,5 +7,7 @@
 [02 | Python Tutorial | Python Programming Tutorial for Beginners | Hollow Square pattern printing](https://www.youtube.com/watch?v=tAD7_VhQmk4https://www.youtube.com/watch?v=tAD7_VhQmk4)<br>
 [What's the meaning of underscores (_ & __) in Python variable names?](https://www.youtube.com/watch?v=ALZmCy2u0jQ)<br>
 [What Python Projects Should I Build to Get a Job?](https://www.youtube.com/watch?v=p-89r5QvQvQ&list=RDCMUCI0vQvr9aFn27yR6Ej6n5UA&index=4)<br>
+[อันนี้ดีมาก Python Count Occurrences of Letters, Words and Numbers in Strings and Lists](https://www.youtube.com/watch?v=szIFFw_Xl_M)<br>
+[Comparing strings in python](https://www.youtube.com/watch?v=7oKXuSMOHXY)<br>
 []()<br>
 []()<br>
